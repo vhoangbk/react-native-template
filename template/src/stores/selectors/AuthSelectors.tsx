@@ -1,5 +1,3 @@
-// import {ApplicationState} from '@stores/types';
+import {ApplicationStore} from '@stores/types';
 
-// export const getAuth = (state: ApplicationState) => state.auth;
-
-// export const getUser = (state: ApplicationState) => state.auth.user;
+export const getAuth = (state: ApplicationStore) => state.auth;

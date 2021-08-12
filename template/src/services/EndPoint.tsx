@@ -1,7 +1,7 @@
-// import Config from 'react-native-config';
+import Config from 'react-native-config';
 
-// export const API_URL = Config.API_URL;
+export const API_URL = Config.API_URL;
 
-// export const EndPoint = {
-//   LOGIN: `${API_URL}login`,
-// };
+export const EndPoint = {
+  LOGIN: `${API_URL}login`,
+};

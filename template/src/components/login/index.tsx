@@ -2,8 +2,10 @@ import { useNavigation } from '@react-navigation/native';
 import Fonts from '@theme/Fonts';
 import React, {useState, useEffect} from 'react';
 import styled from 'styled-components/native';
-import {Images} from '@assets'
+import {Images} from '@assets/index'
 import {getString} from '@locales/index';
+import {useDispatch} from "react-redux";
+import {loginAction} from "@stores/actions/AuthAction";
 
 const Container = styled.View`
   flex: 1;
@@ -25,10 +27,12 @@ const Image = styled.Image`
 
 const Login = () => {
   const navigation = useNavigation();
+  const dispatch = useDispatch();
 
   const onPress = () => {
-    navigation.navigate('Home');
-  }
+    // navigation.navigate('Home');
+    dispatch(loginAction("test@gmail.com", "12345678"))
+  };
 
   return (
     <Container>
