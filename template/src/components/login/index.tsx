@@ -31,7 +31,7 @@ const Login = () => {
 
   const onPress = () => {
     // navigation.navigate('Home');
-    dispatch(loginAction("test@gmail.com", "12345678"))
+    dispatch(loginAction("hoang@gmail.com", "12345678"))
   };
 
   return (
