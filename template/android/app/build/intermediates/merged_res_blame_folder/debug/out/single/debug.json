@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/build/intermediates/res/merged/debug/drawable_launch_background_image.png.flat",
+        "source": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/src/main/res/drawable/launch_background_image.png"
+    },
+    {
+        "merged": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_splash.png.flat",
+        "source": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/src/main/res/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/build/intermediates/res/merged/debug/layout_launch_screen.xml.flat",
+        "source": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/src/main/res/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/build/intermediates/res/merged/debug/drawable_splashbackground.xml.flat",
+        "source": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/src/main/res/drawable/splashbackground.xml"
+    },
+    {
+        "merged": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/hoangnguyen/Desktop/rntemplate/react-native-template/template/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]
