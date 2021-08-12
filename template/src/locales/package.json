@@ -1,0 +1,6 @@
+{
+  "name": "@locales",
+  "devDependencies": {
+    "@types/react-native-i18n": "^2.0.0"
+  }
+}
